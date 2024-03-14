@@ -39,7 +39,7 @@ class DialogBox extends StatelessWidget {
                 // save button
                 MyButton(text: "Save", onPressed: onSave),
 
-                const SizedBox(width: 10)=,
+                const SizedBox(width: 10),
 
                 // cancel button
                 MyButton(text: "Cancel", onPressed: onCancel),
